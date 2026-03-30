@@ -177,16 +177,6 @@ Objetivo financeiro: gerar renda passiva suficiente para independência financei
 
 ---
 
-## 🔁 Prompts Reutilizáveis
-
-- Explique [tema] de forma simples e prática  
-- Resuma [tema] em tópicos  
-- Dê exemplos reais sobre [tema]  
-- Quais erros comuns existem em [tema]?  
-- Crie um passo a passo para [tema]  
-
----
-
 ## 🚀 Conclusão
 
 A educação financeira permite que o indivíduo utilize o dinheiro de forma estratégica, aproveitando o tempo e os juros compostos para construir patrimônio, ao mesmo tempo em que se protege contra a inflação e o endividamento.
